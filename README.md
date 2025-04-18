@@ -1,1 +1,3 @@
-# Harshjonwal_202401100400092_Customer-Segmentation-in-E-commerce
+Short Note on Customer Segmentation in E-commerce
+
+Customer segmentation is a crucial strategy in e-commerce that involves grouping customers based on their purchasing habits and browsing behavior. By analyzing this data, businesses can identify patterns and similarities among customers, allowing them to create targeted marketing campaigns, offer personalized recommendations, and improve customer satisfaction. Techniques like K-Means clustering help classify customers into distinct groups, enabling companies to optimize their services and make data-driven decisions that enhance both customer experience and business growth.
